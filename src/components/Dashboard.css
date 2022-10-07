@@ -1,0 +1,58 @@
+h1 {
+    background-color: lightcoral;
+    color: white;
+
+}
+
+.DashboardMain {
+    background-color: #ccdcdb;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    width: 100% !important;
+}
+
+
+iframe#DashScapi{
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    width: 100% !important;
+    border: 2px solid #ccdcdb;
+    border-radius: 25px;
+    height: 95%;
+    position: absolute;
+    margin-top: 40px;
+   
+}
+
+
+
+
+a{
+    float: right;
+}
+
+
+
+
+/*
+#DashScapi{
+    background-color:   #ebebeb;
+    height: 100px ;
+}
+
+*/
+
+/*
+
+.main{
+
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+
+*/

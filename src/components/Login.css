@@ -1,0 +1,70 @@
+
+/*
+.container{
+    margin-top: 200px;
+}
+*/
+
+#form_login{
+   /* font-family:  'Poppins-Regular, sans-serif' ; */
+    margin-top: 100px !important;
+    background-color: #c6d9c6 ;
+    opacity: 0.8 ;
+    border-radius: 4px;
+    box-shadow: 2px 2px #043a4b;
+    font-size: large;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 30%;
+    align-items: center;
+    padding: 0 20px;
+    height: 500px;
+    margin: 0 auto;
+
+}
+
+h3{
+    color: #043a4b ;
+    text-align: center;
+}
+
+label{
+    float: left;
+    width: 70px;
+ 
+}
+
+input{
+border-radius: 15px;
+background-color: #043a4b;
+border:5px #043a4b;
+margin-bottom: 20px;
+
+}
+
+#IniSesion{
+    border-radius: 20px;
+    width: 90%;
+    background-color: #043a4b;
+    border: 2px #043a4b; 
+    margin-top: 20px;
+}
+
+
+
+#DashScapi{
+    width:100% ;
+    height: 500px ; 
+}
+
+.main{
+
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
